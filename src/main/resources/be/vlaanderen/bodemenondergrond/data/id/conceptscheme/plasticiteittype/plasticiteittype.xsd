@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:be.vlaanderen.bodemenondergrond.data.id.graph:codelijst-plasticiteittype">
+  <xs:simpleType name="be.vlaanderen.bodemenondergrond.data.id.conceptscheme.betrouwbaarheid">
+    <xs:restriction base="xs:string">
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/matigplastisch" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/nietplastisch" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/plastisch" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/sterkplastisch" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/weinigplastisch" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>
