@@ -61,6 +61,7 @@ collectie:plasticiteittype dc:identifier "be.vlaanderen.bodemenondergrond.data.i
     skos:prefLabel "Collectie van plasticiteittypes"@nl.
 concept:matigplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.matigplastisch";
     a skos:Concept;
+    rdfs:seeAlso <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507>;
     skos:definition "De grond laat het toe om eenvoudig een rolletje van 3 mm te maken. Het duurt niet lang om de plasticiteitsgrens te bereiken waarna de grond verkruimelt en niet meer gerold kan worden tot een streng van 3 mm."@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "matigplastisch";
@@ -69,6 +70,7 @@ concept:matigplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.co
     skos:topConceptOf conceptscheme:plasticiteittype.
 concept:nietplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.nietplastisch";
     a skos:Concept;
+    rdfs:seeAlso <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507>;
     skos:definition "De grond laat het niet toe om een rolletje te maken van 3 mm."@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "nietplastisch";
@@ -85,6 +87,7 @@ concept:plastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept
     skos:topConceptOf conceptscheme:plasticiteittype.
 concept:sterkplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.sterkplastisch";
     a skos:Concept;
+    rdfs:seeAlso <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507>;
     skos:definition "De grond kan lang worden gekneed en gerold voordat de plasticiteitsgrens is bereikt. Daarna kan de grond nog enige keren worden uitgerold en verkneed zonder te verkruimelen. "@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "sterkplastisch";
@@ -93,6 +96,7 @@ concept:sterkplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.co
     skos:topConceptOf conceptscheme:plasticiteittype.
 concept:weinigplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.nietplastisch";
     a skos:Concept;
+    rdfs:seeAlso <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507>;
     skos:definition "De grond laat het nauwelijks toe om een rolletje te maken van 3 mm. De grond kan niet meer worden samengekneed als het droger is dan de plasticiteitsgrens."@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "weinigplastisch";

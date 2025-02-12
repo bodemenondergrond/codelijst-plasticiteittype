@@ -9,6 +9,7 @@
 <https://data.bodemenondergrond.vlaanderen.be/id/collection/plasticiteittype/plasticiteittype> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collectie van plasticiteittypes"@nl .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/matigplastisch> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.matigplastisch" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/matigplastisch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/matigplastisch> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/matigplastisch> <http://www.w3.org/2004/02/skos/core#definition> "De grond laat het toe om eenvoudig een rolletje van 3 mm te maken. Het duurt niet lang om de plasticiteitsgrens te bereiken waarna de grond verkruimelt en niet meer gerold kan worden tot een streng van 3 mm."@nl .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/matigplastisch> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/plasticiteittype> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/matigplastisch> <http://www.w3.org/2004/02/skos/core#notation> "matigplastisch" .
@@ -18,6 +19,7 @@
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/matigplastisch> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/plasticiteittype> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/nietplastisch> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.nietplastisch" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/nietplastisch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/nietplastisch> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/nietplastisch> <http://www.w3.org/2004/02/skos/core#definition> "De grond laat het niet toe om een rolletje te maken van 3 mm."@nl .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/nietplastisch> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/plasticiteittype> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/nietplastisch> <http://www.w3.org/2004/02/skos/core#notation> "nietplastisch" .
@@ -36,6 +38,7 @@
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/plastisch> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/plasticiteittype> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/sterkplastisch> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.sterkplastisch" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/sterkplastisch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/sterkplastisch> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/sterkplastisch> <http://www.w3.org/2004/02/skos/core#definition> "De grond kan lang worden gekneed en gerold voordat de plasticiteitsgrens is bereikt. Daarna kan de grond nog enige keren worden uitgerold en verkneed zonder te verkruimelen. "@nl .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/sterkplastisch> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/plasticiteittype> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/sterkplastisch> <http://www.w3.org/2004/02/skos/core#notation> "sterkplastisch" .
@@ -45,6 +48,7 @@
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/sterkplastisch> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/plasticiteittype> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/weinigplastisch> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.nietplastisch" .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/weinigplastisch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/weinigplastisch> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/weinigplastisch> <http://www.w3.org/2004/02/skos/core#definition> "De grond laat het nauwelijks toe om een rolletje te maken van 3 mm. De grond kan niet meer worden samengekneed als het droger is dan de plasticiteitsgrens."@nl .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/weinigplastisch> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/plasticiteittype> .
 <https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/weinigplastisch> <http://www.w3.org/2004/02/skos/core#notation> "weinigplastisch" .
