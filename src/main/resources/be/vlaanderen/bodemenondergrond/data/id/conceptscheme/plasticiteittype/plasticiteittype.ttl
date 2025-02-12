@@ -61,45 +61,45 @@ collectie:plasticiteittype dc:identifier "be.vlaanderen.bodemenondergrond.data.i
     skos:prefLabel "Collectie van plasticiteittypes"@nl.
 concept:matigplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.matigplastisch";
     a skos:Concept;
-    skos:definition "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: Een rolletje kan eenvoudig worden gemaakt en het duurt niet lang om de plasticiteitsgrens te bereiken. Het is niet mogelijk om weer een rolletje te maken van het samengevouwen monster als het de plasticiteitsgrens heeft bereikt. Het materiaal verkruimelt als het droger is dan de plasticiteitsgrens."@nl;
+    skos:definition "De grond laat het toe om eenvoudig een rolletje van 3 mm te maken. Het duurt niet lang om de plasticiteitsgrens te bereiken waarna de grond verkruimelt en niet meer gerold kan worden tot een streng van 3 mm."@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "matigplastisch";
-    skos:note "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: Een rolletje kan eenvoudig worden gemaakt en het duurt niet lang om de plasticiteitsgrens te bereiken. Het is niet mogelijk om weer een rolletje te maken van het samengevouwen monster als het de plasticiteitsgrens heeft bereikt. Het materiaal verkruimelt als het droger is dan de plasticiteitsgrens."@nl, "Definitie conform NBN EN ISO 14688-2018"@nl;
+    skos:note "De grond laat het toe om eenvoudig een rolletje van 3 mm te maken. Het duurt niet lang om de plasticiteitsgrens te bereiken waarna de grond verkruimelt en niet meer gerold kan worden tot een streng van 3 mm."@nl, "Definitie afgeleid van NBN EN ISO 14688-1:2018 en vooral van toepassing voor fijne gronden zoals klei en silt."@nl;
     skos:prefLabel "matig plastisch"@nl;
     skos:topConceptOf conceptscheme:plasticiteittype.
 concept:nietplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.nietplastisch";
     a skos:Concept;
-    skos:definition "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: het is niet mogelijk om een rolletje te maken van 3 mm ongeacht het watergehalte."@nl;
+    skos:definition "De grond laat het niet toe om een rolletje te maken van 3 mm."@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "nietplastisch";
-    skos:note "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: het is niet mogelijk om een rolletje te maken van 3 mm ongeacht het watergehalte."@nl, "Definitie conform NBN EN ISO 14688-2018"@nl;
+    skos:note "De grond laat het niet toe om een rolletje te maken van 3 mm."@nl, "Definitie afgeleid van NBN EN ISO 14688-1:2018 en vooral van toepassing voor fijne gronden zoals klei en silt."@nl;
     skos:prefLabel "niet plastisch"@nl;
     skos:topConceptOf conceptscheme:plasticiteittype.
 concept:plastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.plastisch";
     a skos:Concept;
-    skos:definition "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: Een rolletje van 3 mm kan eenvoudig worden gemaakt. De mate van de plasticiteit is niet verder gespecificeerd."@nl;
+    skos:definition "De grond laat toe om eenvoudig een rolletje te maken van 3 mm. De mate van de plasticiteit is niet verder gespecificeerd."@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "plastisch";
-    skos:note "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: Een rolletje van 3 mm kan eenvoudig worden gemaakt. De mate van de plasticiteit is niet verder gespecificeerd."@nl, "Deze waarde werd algemeen gebruikt voordat de norm NBN EN ISO 14688:2018 in voege trad en werd behouden vanwege historisch gebruik. Deze waarde is niet geldig wanneer de beschrijving conform de norm gebeurt."@nl;
+    skos:note "De grond laat toe om eenvoudig een rolletje te maken van 3 mm. De mate van de plasticiteit is niet verder gespecificeerd."@nl, "Deze waarde werd algemeen gebruikt voordat de norm NBN EN ISO 14688-1:2018 in voege trad en werd behouden vanwege historisch gebruik. Deze waarde is niet geldig wanneer de beschrijving conform de norm gebeurt."@nl;
     skos:prefLabel "plastisch"@nl;
     skos:topConceptOf conceptscheme:plasticiteittype.
 concept:sterkplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.sterkplastisch";
     a skos:Concept;
-    skos:definition "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: Er moet lang worden gekneed en gerold voordat de plasticiteitsgrens is bereikt. Het materiaal kan nog enige keren worden uitgerold nadat de plasticiteitsgrens is bereikt. Het materiaal kan wanneer het droger is dan de plasticiteitsgrens, worden gekneed zonder te verkruimelen."@nl;
+    skos:definition "De grond kan lang worden gekneed en gerold voordat de plasticiteitsgrens is bereikt. Daarna kan de grond nog enige keren worden uitgerold en verkneed zonder te verkruimelen. "@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "sterkplastisch";
-    skos:note "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: Er moet lang worden gekneed en gerold voordat de plasticiteitsgrens is bereikt. Het materiaal kan nog enige keren worden uitgerold nadat de plasticiteitsgrens is bereikt. Het materiaal kan wanneer het droger is dan de plasticiteitsgrens, worden gekneed zonder te verkruimelen."@nl, "Definitie conform NBN EN ISO 14688-2018"@nl;
+    skos:note "De grond kan lang worden gekneed en gerold voordat de plasticiteitsgrens is bereikt. Daarna kan de grond nog enige keren worden uitgerold en verkneed zonder te verkruimelen. "@nl, "Definitie afgeleid van NBN EN ISO 14688-1:2018 en vooral van toepassing voor fijne gronden zoals klei en silt."@nl;
     skos:prefLabel "sterk plastisch"@nl;
     skos:topConceptOf conceptscheme:plasticiteittype.
 concept:weinigplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.nietplastisch";
     a skos:Concept;
-    skos:definition "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: Het is nauwelijks mogelijk om een rolletje te maken en het monster kan niet meer worden samengekneed als het droger is dan de plasticiteitsgrens."@nl;
+    skos:definition "De grond laat het nauwelijks toe om een rolletje te maken van 3 mm. De grond kan niet meer worden samengekneed als het droger is dan de plasticiteitsgrens."@nl;
     skos:inScheme conceptscheme:plasticiteittype;
     skos:notation "weinigplastisch";
-    skos:note "De plasticiteit van fijne grond behoort in dit veld te worden beschreven met behulp van een handmatige proef: Het is nauwelijks mogelijk om een rolletje te maken en het monster kan niet meer worden samengekneed als het droger is dan de plasticiteitsgrens."@nl, "Definitie conform NBN EN ISO 14688-2018"@nl;
+    skos:note "De grond laat het nauwelijks toe om een rolletje te maken van 3 mm. De grond kan niet meer worden samengekneed als het droger is dan de plasticiteitsgrens."@nl, "Definitie afgeleid van NBN EN ISO 14688-1:2018 en vooral van toepassing voor fijne gronden zoals klei en silt."@nl;
     skos:prefLabel "weinig plastisch"@nl;
     skos:topConceptOf conceptscheme:plasticiteittype.
-conceptscheme:plasticiteittype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.betrouwbaarheid";
+conceptscheme:plasticiteittype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.plasticiteittype";
     a skos:ConceptScheme;
     skos:definition "Indicatie van plasticiteittype."@nl;
     skos:hasTopConcept concept:matigplastisch, concept:nietplastisch, concept:plastisch, concept:sterkplastisch, concept:weinigplastisch;
