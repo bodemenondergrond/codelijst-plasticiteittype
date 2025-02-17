@@ -54,11 +54,6 @@
 @prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-collectie:plasticiteittype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.collection.plasticiteittype.plasticiteittype";
-    a skos:Collection;
-    skos:inScheme conceptscheme:plasticiteittype;
-    skos:member concept:matigplastisch, concept:nietplastisch, concept:plastisch, concept:sterkplastisch, concept:weinigplastisch;
-    skos:prefLabel "Collectie van plasticiteittypes"@nl.
 concept:matigplastisch dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.plasticiteittype.matigplastisch";
     a skos:Concept;
     rdfs:seeAlso <https://app.nbn.be/data/r/platform/frontend/detail?p40_id=189507&p40_language_code=nl&p40_detail_id=85507>;

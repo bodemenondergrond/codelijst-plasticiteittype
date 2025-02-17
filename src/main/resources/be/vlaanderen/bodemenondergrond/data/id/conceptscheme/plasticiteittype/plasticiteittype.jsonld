@@ -1,5 +1,13 @@
 {
     "@context": {
+        "sparql-service-description-graph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#graph",
+            "@type": "@id"
+        },
+        "defaultGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultGraph",
+            "@type": "@id"
+        },
         "collections": {
             "@type": "@id",
             "@reverse": "member"
@@ -386,20 +394,6 @@
         "@base": "https://data.bodemenondergrond.vlaanderen.be/id/concept/plasticiteittype/"
     },
     "graph": [
-        {
-            "id": "collectie:plasticiteittype",
-            "type": "skos:Collection",
-            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.collection.plasticiteittype.plasticiteittype",
-            "inScheme": "conceptscheme:plasticiteittype",
-            "member": [
-                "concept:matigplastisch",
-                "concept:nietplastisch",
-                "concept:plastisch",
-                "concept:sterkplastisch",
-                "concept:weinigplastisch"
-            ],
-            "prefLabel": "Collectie van plasticiteittypes"
-        },
         {
             "id": "concept:matigplastisch",
             "type": "skos:Concept",
